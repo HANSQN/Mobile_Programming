@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256521955455",
+    "firebase_url": "https://colorapp-c66dd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "colorapp-c66dd",
+    "storage_bucket": "colorapp-c66dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256521955455:android:015dfa2e58a17ae83f374a",
+        "android_client_info": {
+          "package_name": "com.example.fomenko_lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-faraWriNIjEWxhP1lnV-gqrf67JGB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
